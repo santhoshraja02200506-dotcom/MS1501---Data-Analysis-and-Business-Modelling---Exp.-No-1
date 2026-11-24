@@ -155,6 +155,7 @@ print(list(df.columns))
 # Step 9: Save the cleaned dataset
 df.to_csv("heartdisease_cleaned.csv", index=False)
 print("\nCleaned dataset saved as 'heartdisease_cleaned.csv'. Final shape:", df.shape)
+'''
 
 Dataset loaded successfully.
 
@@ -333,4 +334,4 @@ Cleaned dataset saved as 'heartdisease_cleaned.csv'. Final shape: (250, 17)
 
 ## Result
 
-<< Enter the program execution result>>
+Thus, data cleaning and preprocessing on the heart disease dataset (`heartdisease.csv`) was executed successfully, and the cleaned dataset was saved as `heartdisease_cleaned.csv`.
