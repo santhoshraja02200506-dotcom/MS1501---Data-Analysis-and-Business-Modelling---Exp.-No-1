@@ -155,7 +155,8 @@ print(list(df.columns))
 # Step 9: Save the cleaned dataset
 df.to_csv("heartdisease_cleaned.csv", index=False)
 print("\nCleaned dataset saved as 'heartdisease_cleaned.csv'. Final shape:", df.shape)
-'''
+```
+Output:
 
 Dataset loaded successfully.
 
