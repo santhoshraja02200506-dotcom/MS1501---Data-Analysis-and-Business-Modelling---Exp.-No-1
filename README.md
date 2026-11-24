@@ -329,6 +329,7 @@ Columns after renaming:
 ['S_No', 'Gender', 'Age', 'Education', 'CurrentSmoker', 'CigsPerDay', 'BPMeds', 'PrevalentStroke', 'PrevalentHyp', 'Diabetes', 'TotalCholesterol', 'SysBP', 'DiaBP', 'BMI', 'HeartRate', 'Glucose', 'TenYearCHD']
 
 Cleaned dataset saved as 'heartdisease_cleaned.csv'. Final shape: (250, 17)
+```
 
 ## Result
 
